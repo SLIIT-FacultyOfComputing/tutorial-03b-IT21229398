@@ -19,3 +19,11 @@ void print(int len, int wth) {
 }
 
 // Implement the Input Function here
+{
+  len = 500;
+  wth = 800;
+
+  cout<< "Length :"<<len
+      << "Width  :"<<wth<<endl;
+  
+}
